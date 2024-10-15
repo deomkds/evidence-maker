@@ -12,3 +12,7 @@ Sim, vários.
 1. Às vezes, os números de página não batem.
 2. Imagens em proporções diferentes de 16:9 podem sobrepor os textos.
 3. O script é incapaz de ordenar certos tipos de numeração corretamente (1.1, 1.1.1, 1.2.1 por exemplo).
+
+### Dependências
+
+Necessita do [Pillow](https://pypi.org/project/pillow/).
